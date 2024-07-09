@@ -6,6 +6,8 @@ HTML, CSS, Node.js
 **Description:**
 This web application fetches and displays the current location's temperature and weather information using a weather API.
 
+ To run this application use **node index.js** or **nodemon index.js** on terminal
+ And run on browser localhost:8080
  
 **Screenshot:**
 
